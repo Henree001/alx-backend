@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """class definition of Server with pagination"""
 import csv
 import math
